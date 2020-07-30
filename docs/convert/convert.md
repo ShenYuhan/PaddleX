@@ -138,6 +138,9 @@ if __name__ == '__main__':
     print(r.json()["results"])
 ```
 使用的测试图片如下：
+<p align="center">  
+<img src="../train/images/test.jpg" width="45%" />  
+</p>  
 ![](../train/images/test.jpg)
 将代码中的`IMAGE_PATH1`改成想要进行预测的图片路径后，在命令行执行：
 ```python
